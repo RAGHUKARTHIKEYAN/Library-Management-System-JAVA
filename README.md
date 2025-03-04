@@ -1,4 +1,4 @@
-# 📚 Library Management System -Java
+# 📚 Library-Management-System -Java
 
 
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
